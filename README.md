@@ -34,7 +34,7 @@
 
 | **주차** | **날짜** | **문제** | **임수정** | **김혜인** |
 |:-:|:-:|:-:|:-:|:-:|
-| 1주차 | 2/17 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) |  |  |
+| 1주차 | 2/17 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/1260.swift) |  |
 |  | 2/18 | [퇴사2](https://www.acmicpc.net/problem/15486) |  |  |
 |  | 2/19 | [신기한 소수](https://www.acmicpc.net/problem/2023) |  |  |
 |  | 2/20 | [iSharp](https://www.acmicpc.net/problem/3568) |  |  |
