@@ -18,7 +18,7 @@
 #### 운영 규칙
 
 - 벌금
-    - 매주 목요일 미팅 전까지 PR을 올리지 못한 문제 수 만큼 500원 지불
+  - 매주 목요일 미팅 전까지 PR을 올리지 못한 문제 수 만큼 500원 지불
 
 ## PR 규칙 및 Commit Message 규칙
 
@@ -32,9 +32,9 @@
 
 ## 일정표
 
-| **주차** | **날짜** | **문제** | **임수정** | **김혜인** |
-|:-:|:-:|:-:|:-:|:-:|
-| 1주차 | 2/17 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/1260.swift) |  |
-|  | 2/18 | [퇴사2](https://www.acmicpc.net/problem/15486) |  |  |
-|  | 2/19 | [신기한 소수](https://www.acmicpc.net/problem/2023) |  |  |
-|  | 2/20 | [iSharp](https://www.acmicpc.net/problem/3568) |  |  |
+| **주차** | **날짜** |                      **문제**                       |                                  **임수정**                                  |                                  **김혜인**                                  |
+| :------: | :------: | :-------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+|  1주차   |   2/17   |  [DFS와 BFS](https://www.acmicpc.net/problem/1260)  | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/1260.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/BJ_1260.java) |
+|          |   2/18   |   [퇴사2](https://www.acmicpc.net/problem/15486)    |                                                                              |                                                                              |
+|          |   2/19   | [신기한 소수](https://www.acmicpc.net/problem/2023) |                                                                              |                                                                              |
+|          |   2/20   |   [iSharp](https://www.acmicpc.net/problem/3568)    |                                                                              |                                                                              |
