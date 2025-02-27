@@ -12,7 +12,7 @@
 #### 문제 풀이
 
 1. 매주 블로그의 4가지 카테고리 (DFS, BFS / DP / 최근 빈출 / 시뮬레이션) 에서 한문제씩 총 4문제를 순서대로 문제 풀이를 진행. (월,화,수,목)
-2. 깃허브 이 레포 포크 후 본인 폴더에 코드 업로드 (목요일 미팅 전까지 4개 다 올리기) & 목요일에 merge
+2. 깃허브 이 레포 포크 후 본인 폴더에 코드 업로드 (하루에 하나씩, 본인의 하루가 끝나기 전까지) & 목요일에 merge
 3. 목요일에 온라인 미팅으로 각자의 풀이 접근 방식 공유
 
 #### 운영 규칙
@@ -36,9 +36,9 @@
 | :------: | :------: | :-------------------------------------------------: | :--------------------------------------------------------------------------: |:---------------------------------------------------------------------------:|
 |  1주차   |   2/17   |  [DFS와 BFS](https://www.acmicpc.net/problem/1260)  | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/1260.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/BJ_1260.java) |
 |          |   2/18   |   [퇴사2](https://www.acmicpc.net/problem/15486)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/15486.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/BJ_15486.java) |
-|          |   2/19   | [신기한 소수](https://www.acmicpc.net/problem/2023) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/2023.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/BJ_2023.java) |
-|          |   2/20   |   [iSharp](https://www.acmicpc.net/problem/3568)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/3568.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/BJ_3568.java) |
-|  2주차   |   2/24   |  [전쟁 - 전투](https://www.acmicpc.net/problem/1303)  |  |  |
-|          |   2/25   |   [점프](https://www.acmicpc.net/problem/1890)    |  |  |
-|          |   2/26   | [두 동전](https://www.acmicpc.net/problem/16197) |  |  |
-|          |   2/27   |   [CPU](https://www.acmicpc.net/problem/16506)    |  |  |
+|          |   2/19   | [신기한 소수](https://www.acmicpc.net/problem/2023) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/2023.swift) |                                                                              |
+|          |   2/20   |   [iSharp](https://www.acmicpc.net/problem/3568)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/3568.swift) |                                                                              |
+|  2주차   |   2/24   |  [전쟁 - 전투](https://www.acmicpc.net/problem/1303)  | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/1303.swift) |  |
+|          |   2/25   |   [점프](https://www.acmicpc.net/problem/1890)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/1890.swift) |  |
+|          |   2/26   | [두 동전](https://www.acmicpc.net/problem/16197) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/16197.swift) |  |
+|          |   2/27   |   [CPU](https://www.acmicpc.net/problem/16506)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/16506.swift) |  |
