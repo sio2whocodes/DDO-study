@@ -36,9 +36,14 @@
 | :------: | :------: | :-------------------------------------------------: | :--------------------------------------------------------------------------: |:---------------------------------------------------------------------------:|
 |  1주차   |   2/17   |  [DFS와 BFS](https://www.acmicpc.net/problem/1260)  | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/1260.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/BJ_1260.java) |
 |          |   2/18   |   [퇴사2](https://www.acmicpc.net/problem/15486)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/15486.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/BJ_15486.java) |
-|          |   2/19   | [신기한 소수](https://www.acmicpc.net/problem/2023) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/2023.swift) |                                                                              |
-|          |   2/20   |   [iSharp](https://www.acmicpc.net/problem/3568)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/3568.swift) |                                                                              |
-|  2주차   |   2/24   |  [전쟁 - 전투](https://www.acmicpc.net/problem/1303)  | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/1303.swift) |  |
-|          |   2/25   |   [점프](https://www.acmicpc.net/problem/1890)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/1890.swift) |  |
-|          |   2/26   | [두 동전](https://www.acmicpc.net/problem/16197) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/16197.swift) |  |
-|          |   2/27   |   [CPU](https://www.acmicpc.net/problem/16506)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/16506.swift) |  |
+|          |   2/19   | [신기한 소수](https://www.acmicpc.net/problem/2023) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/2023.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/BJ_2023.java) |
+|          |   2/20   |   [iSharp](https://www.acmicpc.net/problem/3568)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/3568.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/BJ_3568.java) |
+|  2주차   |   2/24   |  [전쟁 - 전투](https://www.acmicpc.net/problem/1303)  | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/1303.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/BJ_1303.java) |
+|          |   2/25   |   [점프](https://www.acmicpc.net/problem/1890)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/1890.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/BJ_1890.java) |
+|          |   2/26   | [두 동전](https://www.acmicpc.net/problem/16197) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/16197.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/BJ_16197.java) |
+|          |   2/27   |   [CPU](https://www.acmicpc.net/problem/16506)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/16506.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/BJ_16506.java) |
+|  3주차   |   3/3   |  [미로탐색](https://www.acmicpc.net/problem/2178)  |  |  |
+|          |   3/4   |   [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)    |  |  |
+|          |   3/5   | [Strahler 순서](https://www.acmicpc.net/problem/9470) |  |  |
+|          |   3/6   |   [LCD Test](https://www.acmicpc.net/problem/2290)    |  |  |
+
