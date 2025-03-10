@@ -45,5 +45,9 @@
 |  3주차   |   3/3   |  [미로탐색](https://www.acmicpc.net/problem/2178)  | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/2178.swift) |  |
 |          |   3/4   |   [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/15989.swift) |  |
 |          |   3/5   | [Strahler 순서](https://www.acmicpc.net/problem/9470) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/9470.swift) |  |
-|          |   3/6   |   [LCD Test](https://www.acmicpc.net/problem/2290)    |  |  |
+|          |   3/6   |   [LCD Test](https://www.acmicpc.net/problem/2290)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/2290.swift) |  |
+|  4주차   |   3/10  |  [음식물 피하기](https://www.acmicpc.net/problem/1743)  |  |  |
+|          |   3/11  |   [기타리스트](https://www.acmicpc.net/problem/1495) |  |  |
+|          |   3/12  | [ACM Craft](https://www.acmicpc.net/problem/1005) | |  |
+|          |   3/13  |   [시그널](https://www.acmicpc.net/problem/16113)  |  |  |
 
