@@ -46,8 +46,8 @@
 |          |   3/4   |   [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/15989.swift) |  |
 |          |   3/5   | [Strahler 순서](https://www.acmicpc.net/problem/9470) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/9470.swift) |  |
 |          |   3/6   |   [LCD Test](https://www.acmicpc.net/problem/2290)    | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/2290.swift) |  |
-|  4주차   |   3/10  |  [음식물 피하기](https://www.acmicpc.net/problem/1743)  | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/1743.swift) |  |
-|          |   3/11  |   [기타리스트](https://www.acmicpc.net/problem/1495) |  |  |
-|          |   3/12  | [ACM Craft](https://www.acmicpc.net/problem/1005) | |  |
+|  4주차   |   3/10  |  [음식물 피하기](https://www.acmicpc.net/problem/1743)  | [✅](https://sio2whocode.tistory.com/286) |  |
+|          |   3/11  |   [기타리스트](https://www.acmicpc.net/problem/1495) | [✅](https://sio2whocode.tistory.com/290) |  |
+|          |   3/12  | [ACM Craft](https://www.acmicpc.net/problem/1005) | [✅](https://sio2whocode.tistory.com/291) |  |
 |          |   3/13  |   [시그널](https://www.acmicpc.net/problem/16113)  |  |  |
 
