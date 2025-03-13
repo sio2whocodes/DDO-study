@@ -49,5 +49,5 @@
 |  4주차   |   3/10  |  [음식물 피하기](https://www.acmicpc.net/problem/1743)  | [✅](https://sio2whocode.tistory.com/286) |  |
 |          |   3/11  |   [기타리스트](https://www.acmicpc.net/problem/1495) | [✅](https://sio2whocode.tistory.com/290) |  |
 |          |   3/12  | [ACM Craft](https://www.acmicpc.net/problem/1005) | [✅](https://sio2whocode.tistory.com/291) |  |
-|          |   3/13  |   [시그널](https://www.acmicpc.net/problem/16113)  |  |  |
+|          |   3/13  |   [시그널](https://www.acmicpc.net/problem/16113)  | [✅](https://sio2whocode.tistory.com/292) |  |
 
