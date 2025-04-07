@@ -54,11 +54,15 @@
 |          |   3/18  |   [크리보드](https://www.acmicpc.net/problem/11058) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/11058.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/week5/BJ_11058.java) |
 |          |   3/19  | [사회망 서비스](https://www.acmicpc.net/problem/2533) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/2533.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/week5/BJ_2533.java)  |
 |          |   3/20  |   [월드컵](https://www.acmicpc.net/problem/6987)  | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/6987.swift) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/hyein/week5/BJ_6987.java)  |
-|  6주차   |   3/24  |  [A -> B](https://www.acmicpc.net/problem/16953)  | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/16953.swift) |    [✅]                                                                                |
-|          |   3/25  |   [BOJ 거리](https://www.acmicpc.net/problem/12026) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/12026.swift) |   [✅]                                                                                 |
-|          |   3/26  | [합리적인 이동경로](https://www.acmicpc.net/problem/2176) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/2176.cpp) |  [✅]                                                                                  |
-|          |   3/27  |   [거북이](https://www.acmicpc.net/problem/8911)  | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/8911.swift) |     [✅]                                                                               |
-|  7주차   |   3/31  |  [숨바꼭질 2](https://www.acmicpc.net/problem/12851)  |  |                                                                                    |
-|          |   4/1  |   [평범한 배낭](https://www.acmicpc.net/problem/12865) |  |                                                                                    |
-|          |   4/2  | [우수 마을](https://www.acmicpc.net/problem/1949) |  |                                                                                    |
-|          |   4/3  |   [Puyo Puyo](https://www.acmicpc.net/problem/11559)  | |                                                                                    |
+|  6주차   |   3/24  |  [A -> B](https://www.acmicpc.net/problem/16953)  | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/16953.swift) |    ✅                                                                                |
+|          |   3/25  |   [BOJ 거리](https://www.acmicpc.net/problem/12026) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/12026.swift) |   ✅                                                                                 |
+|          |   3/26  | [합리적인 이동경로](https://www.acmicpc.net/problem/2176) | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/2176.cpp) |  ✅                                                                                  |
+|          |   3/27  |   [거북이](https://www.acmicpc.net/problem/8911)  | [✅](https://github.com/sio2whocodes/DDO-study/blob/main/sujeong/8911.swift) |     ✅                                                                               |
+|  7주차   |   3/31  |  [숨바꼭질 2](https://www.acmicpc.net/problem/12851)  | ✅ |    ✅                                                                                |
+|          |   4/1  |   [평범한 배낭](https://www.acmicpc.net/problem/12865) | ✅ |  ✅                                                                                  |
+|          |   4/2  | [우수 마을](https://www.acmicpc.net/problem/1949) | ✅ |   ✅                                                                                 |
+|          |   4/3  |   [Puyo Puyo](https://www.acmicpc.net/problem/11559)  | ✅ | ✅                                                                                   |
+|  8주차   |   4/7  |  [숨바꼭질 3](https://www.acmicpc.net/problem/13549)  |  |                                                                                   |
+|          |   4/8  |   [1학년](https://www.acmicpc.net/problem/5557) |  |                                                                                    |
+|          |   4/9  | [미네랄](https://www.acmicpc.net/problem/2933) |  |                                                                                    |
+|          |   4/10  |   [접두사](https://www.acmicpc.net/problem/1141)  |  |                                                                                    |
