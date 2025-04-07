@@ -121,6 +121,10 @@ replay_pid*
 .DS_Store
 .AppleDouble
 .LSOverride
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
 
 # Icon must end with two \r
 Icon
